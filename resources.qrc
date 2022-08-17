@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/dmc/Line_Print.dmc</file>
+    </qresource>
+</RCC>
