@@ -1,5 +1,5 @@
 # CREATE LAB Binder Jet Printer
-This repository contains code for Binder Jetting Printer's control system, and belongs to the CREATE Lab
+This repository contains code for custom host control software for a binder jetting printer developed by the BYU CREATE Lab.
 
 ## Dependencies
 - Galil API: gclib
